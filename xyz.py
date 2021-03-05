@@ -3,3 +3,4 @@ def add():
     b = input("Second the number: ")
     print("sum =",a+b)
 add()
+add()
